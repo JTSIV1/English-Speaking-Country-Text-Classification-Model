@@ -1,0 +1,12 @@
+                precision    recall  f1-score   support
+
+     Australia       0.45      0.41      0.43      3303
+       Ireland       0.53      0.50      0.51      3333
+   New_Zealand       0.47      0.44      0.45      3134
+  South_Africa       0.65      0.69      0.67      3487
+United_Kingdom       0.47      0.47      0.47      3389
+ United_States       0.51      0.59      0.55      3354
+
+      accuracy                           0.52     20000
+     macro avg       0.51      0.52      0.52     20000
+  weighted avg       0.52      0.52      0.52     20000
