@@ -8,3 +8,9 @@ The process of creating and using the model is split up into two files ``Project
 
 ### Results
 Results from testing data on the N-gram models are provided in ``unigram_tweet_classification_results.txt``, ``bigram_tweet_classification_results.txt``, and ``trigram_tweet_classification_results.txt``.
+
+### Labeling
+Tripadvisor data with country labeles from each model are included in the repo.
+
+### Graphs
+All graphs were created using the code in ``Project1_createGraphs.ipynb``.
